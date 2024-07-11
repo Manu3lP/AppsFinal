@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600854813034",
+    "project_id": "certamen3apps",
+    "storage_bucket": "certamen3apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600854813034:android:40562243e8c88105fa6d13",
+        "android_client_info": {
+          "package_name": "com.example.hito3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjyU3dmLTRuRIXBTDYphIsK-tPmagEjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
